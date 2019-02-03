@@ -33,7 +33,7 @@ public:
 
 int main() {
     KiwiJuiceEasy a;
-    vector<int> b = {700000, 800000, 900000, 1000000};
+    vector<int> b = {700000, 800000, 900000, 1000000, 1, 2};
     vector<int> c = {6,34 , 27,38,9,60};
     vector<int> d = {1,2,4,5,3,3,1,0};
     vector<int> e = {0,1,2,4,2,5,3,1};
